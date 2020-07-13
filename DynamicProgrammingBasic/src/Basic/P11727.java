@@ -1,5 +1,6 @@
 /** Baekjoon Online Judge
 *   Problem No. 11726
+*   2 X n ≈∏¿œ∏µ 2
 *   Writed by Rush.K
 *   Finding recurrence formula
 */

@@ -1,5 +1,6 @@
 /** Baekjoon Online Judge
 *   Problem No. 1463
+*   1로 만들기
 *   Writed by Rush.K
 *   Using BFS by QUEUE
 */
