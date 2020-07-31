@@ -1,6 +1,6 @@
 /** Baekjoon Online Judge
 *   Problem No. 10844
-*   쉬운 계단 수
+*   쉬운 계단 수 
 *   Writed by Rush.K
 *   Using Dynamic Programming Method
 */
